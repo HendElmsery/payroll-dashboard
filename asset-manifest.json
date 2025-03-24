@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/payroll-dashboard/static/css/main.e6c13ad2.css",
+    "main.js": "/payroll-dashboard/static/js/main.6a59a6c5.js",
+    "static/js/453.c7553285.chunk.js": "/payroll-dashboard/static/js/453.c7553285.chunk.js",
+    "index.html": "/payroll-dashboard/index.html",
+    "main.e6c13ad2.css.map": "/payroll-dashboard/static/css/main.e6c13ad2.css.map",
+    "main.6a59a6c5.js.map": "/payroll-dashboard/static/js/main.6a59a6c5.js.map",
+    "453.c7553285.chunk.js.map": "/payroll-dashboard/static/js/453.c7553285.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6a59a6c5.js"
+  ]
+}
